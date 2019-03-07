@@ -10,7 +10,6 @@ int main(void)
     
     // swapping...
     int temp = x;
-    x = y;
     
     printf("x is now %i\n", x);
     printf("y is now %i\n", y);
